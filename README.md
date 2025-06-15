@@ -2,7 +2,7 @@
 <h1 align="center">👋 Greetings earthlings!</h1>
 
 <p align="center">
-Walidoux, I'm a 19 yo web developer based in Morocco 🇲🇦 <br />
+Walidoux, I'm a 21 yo web developer based in Morocco 🇲🇦 <br />
 I'm fluent in 4 languages: French, English, Arabic, and Chinese. I'm open to new adventures 🌎 <br />
 Let's have a talk and get to know more about each other! ✨ <br />
 </p>
